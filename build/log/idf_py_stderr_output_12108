@@ -1,0 +1,78 @@
+info: INFO: Symbol MQTT_PROTOCOL_311 defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:3
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:3
+info: INFO: Symbol MQTT_PROTOCOL_5 defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:9
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:9
+info: INFO: Symbol MQTT_TRANSPORT_SSL defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:15
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:15
+info: INFO: Symbol MQTT_TRANSPORT_WEBSOCKET defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:21
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:21
+info: INFO: Symbol MQTT_TRANSPORT_WEBSOCKET_SECURE defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:28
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:28
+info: INFO: Symbol MQTT_MSG_ID_INCREMENTAL defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:36
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:36
+info: INFO: Symbol MQTT_SKIP_PUBLISH_IF_DISCONNECTED defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:43
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:43
+info: INFO: Symbol MQTT_REPORT_DELETED_MESSAGES defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:53
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:53
+info: INFO: Symbol MQTT_USE_CUSTOM_CONFIG defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:60
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:60
+info: INFO: Symbol MQTT_TCP_DEFAULT_PORT defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:66
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:66
+info: INFO: Symbol MQTT_SSL_DEFAULT_PORT defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:73
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:73
+info: INFO: Symbol MQTT_WS_DEFAULT_PORT defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:81
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:81
+info: INFO: Symbol MQTT_WSS_DEFAULT_PORT defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:89
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:89
+info: INFO: Symbol MQTT_BUFFER_SIZE defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:98
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:98
+info: INFO: Symbol MQTT_TASK_STACK_SIZE defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:105
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:105
+info: INFO: Symbol MQTT_DISABLE_API_LOCKS defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:112
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:112
+info: INFO: Symbol MQTT_TASK_PRIORITY defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:120
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:120
+info: INFO: Symbol MQTT_POLL_READ_TIMEOUT_MS defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:127
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:127
+info: INFO: Symbol MQTT_EVENT_QUEUE_SIZE defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:134
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:134
+info: INFO: Symbol MQTT_TASK_CORE_SELECTION_ENABLED defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:141
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:141
+info: INFO: Symbol MQTT_USE_CORE_0 defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:149
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:149
+info: INFO: Symbol MQTT_USE_CORE_1 defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:151
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:151
+info: INFO: Symbol MQTT_OUTBOX_DATA_ON_EXTERNAL_MEMORY defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:155
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:155
+info: INFO: Symbol MQTT_CUSTOM_OUTBOX defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:162
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:162
+info: INFO: Symbol MQTT_OUTBOX_EXPIRED_TIMEOUT_MS defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:173
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:173
+info: INFO: Choice MQTT_TASK_CORE_SELECTION defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Espressif\frameworks\esp-idf-v5.3.1\components\mqtt\esp-mqtt\Kconfig:146
+    C:\Users\adig0\workspace\Moo_Project\components\esp-mqtt\Kconfig:146
